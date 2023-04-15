@@ -3,7 +3,7 @@ A Python-based and C# portable application program for scanning and filtering ma
 
 
 Special thanks to my fellow research groupmates for making this possible:
-* Laguinlin
-* Mesina
-* Naval
-* Viloria
+* Laguinlin, Angelo
+* Mesina, James
+* Naval, Christine
+* Viloria, Eunice
