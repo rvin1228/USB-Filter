@@ -1,2 +1,2 @@
 # USB-Filter
-A Python-based program for scanning and filtering malwares files over USB drives
+A Python-based and C# portable application program for scanning and filtering malwares files over USB drives
