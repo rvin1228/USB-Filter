@@ -7,6 +7,11 @@ Hardware needed:
 * USB Flash drive
 * 4-port USB HAT for Raspberry Pi
 
+Software needed:
+* Putty
+* VMWare Workstation Player or Pro
+* Raspberry Pi OS
+* Thonny IDE (or any Python IDE)
 
 Special thanks to my fellow research groupmates for making this possible:
 * Laguinlin, Angelo
