@@ -11,7 +11,6 @@ def get_md5_hash(file_path):
  
 #monitoring of file transfers between flash drive and folder
 def monitor_file_transfer(src_path, dest_path, qua_path):
-    exclude_files = ["safe.exe", "trusted.exe"] #for exclusion of files
  
     i = inotify.adapters.Inotify() #use i to initialize monitoring of file system
  
@@ -31,8 +30,8 @@ def monitor_file_transfer(src_path, dest_path, qua_path):
         if 'IN_CLOSE_WRITE' in type_names: #will monitor changes to files after file being written
             file_path = os.path.join(path, filename)
  
-            #scan .exe files, exclude filenames listed at exclude_files
-            if filename.endswith('.exe') and filename not in exclude_files:
+            #scan .exe files
+            if filename.endswith('.exe'):
                 with open(file_path, 'r', encoding = "ISO-8859-1") as f: #scan PoC file
                     unicode_string = f.read()
                     index = unicode_string.find("MALWARE ITO")
