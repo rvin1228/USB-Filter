@@ -6,8 +6,8 @@ def main():
         print("Usage: python delete.py <specific_filename>")
         sys.exit(1)
  
-    src_folder = "/home/raspberry/Desktop/Quarantine"
-    specific_filename = sys.argv[1] + ".exe.lock"
+    src_folder = "/home/admin/Quarantine"
+    specific_filename = sys.argv[1] + ".exe.quarantine"
  
     for filename in os.listdir(src_folder): #find location of file
         if filename == specific_filename:

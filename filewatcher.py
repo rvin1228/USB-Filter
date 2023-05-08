@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, shutil, hashlib, inotify.adapters, datetime, re, psutil
  
 #getting the MD5 hash value of a file
@@ -14,9 +15,9 @@ def monitor_file_transfer(src_path, dest_path, qua_path):
  
     i = inotify.adapters.Inotify() #use i to initialize monitoring of file system
  
-    drives = os.listdir('/media/raspberry')
+    drives = os.listdir('/media/admin')
     for drive in drives:
-        src_path = os.path.join('/media/raspberry', drive)
+        src_path = os.path.join('/media/admin', drive)
         if os.path.isdir(src_path):
             i.add_watch(src_path)
         print(drive)
@@ -34,19 +35,19 @@ def monitor_file_transfer(src_path, dest_path, qua_path):
             if filename.endswith('.exe'):
                 with open(file_path, 'r', encoding = "ISO-8859-1") as f: #scan PoC file
                     unicode_string = f.read()
-                    index = unicode_string.find("MALWARE ITO")
+                    index = unicode_string.find("SAMPLE MALWARE")
                     MZ = unicode_string.find("MZ")
                     PE = unicode_string.find("PE")
  
                 existHash = "84c82835a5d21bbcf75a61706d8ab549" #MD5 hash value of WannaCry
                 md5_hash = get_md5_hash(file_path) #get MD5 hash value of file
  
-                with open("info.txt", "r") as file: #for historical data information
+                with open("/home/admin/scripts/info.txt", "r") as file:
                     file_contents = file.read()
                 malwareCount = int(re.search(r"Malware Count: (\d+)", file_contents).group(1))
                 safeCount = int(re.search(r"Safe Count: (\d+)", file_contents).group(1))
  
-                data = open("data.txt", "a") #append details to output file
+                data = open("/home/admin/scripts/data.txt", "a") #append details to output file
                 data.write("\nFilename: " + str(filename))
                 data.write("\nFile Path: " + file_path)
                 file_size = os.path.getsize(file_path)
@@ -60,7 +61,7 @@ def monitor_file_transfer(src_path, dest_path, qua_path):
                     status = "Quarantine"
                     print(f"Blocking transfer of {filename}")
  
-                    qua_filename = filename.replace('.exe','.exe.lock') #rename file
+                    qua_filename = filename.replace('.exe','.exe.quarantine') #rename file
                     qua_file_path = os.path.join(qua_path, qua_filename)
                     shutil.move(file_path, qua_file_path) #quarantine file to quarantine folder
                     print(f"MD5 hash of {filename}: {md5_hash}")
@@ -76,12 +77,12 @@ def monitor_file_transfer(src_path, dest_path, qua_path):
                 data.close()
                 file_contents = re.sub(r"Malware Count: \d+", f"Malware Count: {malwareCount}", file_contents)
                 file_contents = re.sub(r"Safe Count: \d+", f"Safe Count: {safeCount}", file_contents)
-                with open("info.txt", "w") as file:
+                with open("/home/admin/scripts/info.txt", "w") as file:
                     file.write(file_contents)
  
 if __name__ == "__main__":
     src_path = None
-    dest_path = "/home/raspberry/Desktop"
-    qua_path = "/home/raspberry/Desktop/Quarantine"
+    dest_path = "/home/admin/Desktop"
+    qua_path = "/home/admin/Quarantine"
  
     monitor_file_transfer(src_path, dest_path, qua_path)
