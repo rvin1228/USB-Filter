@@ -1,0 +1,330 @@
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csprojAssemblyReference.cache
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+D:\Desktop\Priorities\Tin Naval\School\4thYr_2ndSem\NCP 4990_CpE Practice and Design 2\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.SuggestedBindingRedirects.cache
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+D:\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+D:\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.DestinationDialog.resources
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+C:\Users\naval\OneDrive\Desktop\Research Codes\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.DestinationDialog.resources
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.historicalData.resources
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.detailedView.resources
+C:\Users\eunic\Downloads\GUIResearch-20230429T030422Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.restoreDestination.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.DestinationDialog.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.historicalData.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.detailedView.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.restoreDestination.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230430T150710Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csprojAssemblyReference.cache
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.DestinationDialog.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.historicalData.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.detailedView.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.restoreDestination.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+D:\Downloads\Latest Latest GUI-20230501T224818Z-001\Latest Latest GUI\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.historicalData.resources
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.detailedView.resources
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.restoreDestination.resources
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+C:\Users\rvin2\Downloads\kay tin\GUIResearch-20230506T043532Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe.config
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.exe
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\GUIResearch.pdb
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Nautilus.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Modules.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.SQLite.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\IronPython.Wpf.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.pdb
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Octopus.Client.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\Renci.SshNet.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Buffers.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Memory.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.AssemblyReference.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Form1.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.historicalData.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.detailedView.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.restoreDestination.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.Properties.Resources.resources
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.GenerateResource.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CoreCompileInputs.cache
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.csproj.CopyComplete
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.exe
+C:\Users\GhostwireZ\Downloads\GUIResearch-20230506T163302Z-001\GUIResearch\GUIResearch\obj\Debug\GUIResearch.pdb
