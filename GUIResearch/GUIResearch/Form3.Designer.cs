@@ -30,18 +30,18 @@ namespace GUIResearch
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(historicalData));
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea21 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend21 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea22 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend22 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series22 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea23 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend23 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series23 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea24 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend24 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series24 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea7 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.lblQuarantine = new System.Windows.Forms.Label();
             this.lblRestore = new System.Windows.Forms.Label();
             this.lblSafe = new System.Windows.Forms.Label();
@@ -72,6 +72,12 @@ namespace GUIResearch
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.chart3 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.chart4 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            this.copyPercentage = new System.Windows.Forms.Label();
+            this.movePercentage = new System.Windows.Forms.Label();
+            this.restorePercentage = new System.Windows.Forms.Label();
+            this.deletePercentage = new System.Windows.Forms.Label();
+            this.malwarePercentage = new System.Windows.Forms.Label();
+            this.safePercentage = new System.Windows.Forms.Label();
             this.panel2.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel3.SuspendLayout();
@@ -90,7 +96,7 @@ namespace GUIResearch
             this.lblQuarantine.AutoSize = true;
             this.lblQuarantine.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblQuarantine.ForeColor = System.Drawing.Color.Red;
-            this.lblQuarantine.Location = new System.Drawing.Point(32, 4);
+            this.lblQuarantine.Location = new System.Drawing.Point(30, 4);
             this.lblQuarantine.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblQuarantine.Name = "lblQuarantine";
             this.lblQuarantine.Size = new System.Drawing.Size(53, 52);
@@ -103,7 +109,7 @@ namespace GUIResearch
             this.lblRestore.AutoSize = true;
             this.lblRestore.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblRestore.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.lblRestore.Location = new System.Drawing.Point(34, 10);
+            this.lblRestore.Location = new System.Drawing.Point(29, 13);
             this.lblRestore.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblRestore.Name = "lblRestore";
             this.lblRestore.Size = new System.Drawing.Size(51, 52);
@@ -116,7 +122,7 @@ namespace GUIResearch
             this.lblSafe.AutoSize = true;
             this.lblSafe.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSafe.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lblSafe.Location = new System.Drawing.Point(34, 12);
+            this.lblSafe.Location = new System.Drawing.Point(29, 12);
             this.lblSafe.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSafe.Name = "lblSafe";
             this.lblSafe.Size = new System.Drawing.Size(49, 52);
@@ -135,7 +141,7 @@ namespace GUIResearch
             this.viewButton.Font = new System.Drawing.Font("Calibri", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.viewButton.ForeColor = System.Drawing.SystemColors.Control;
             this.viewButton.Location = new System.Drawing.Point(129, 6);
-            this.viewButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.viewButton.Margin = new System.Windows.Forms.Padding(2);
             this.viewButton.Name = "viewButton";
             this.viewButton.Size = new System.Drawing.Size(41, 41);
             this.viewButton.TabIndex = 6;
@@ -152,7 +158,7 @@ namespace GUIResearch
             this.backButton.Font = new System.Drawing.Font("Calibri", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.backButton.ForeColor = System.Drawing.SystemColors.Control;
             this.backButton.Location = new System.Drawing.Point(37, 12);
-            this.backButton.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.backButton.Margin = new System.Windows.Forms.Padding(2);
             this.backButton.Name = "backButton";
             this.backButton.Size = new System.Drawing.Size(41, 41);
             this.backButton.TabIndex = 7;
@@ -177,7 +183,7 @@ namespace GUIResearch
             this.lblMove.AutoSize = true;
             this.lblMove.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMove.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-            this.lblMove.Location = new System.Drawing.Point(28, 10);
+            this.lblMove.Location = new System.Drawing.Point(23, 14);
             this.lblMove.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblMove.Name = "lblMove";
             this.lblMove.Size = new System.Drawing.Size(57, 52);
@@ -244,6 +250,7 @@ namespace GUIResearch
             // panel4
             // 
             this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Controls.Add(this.restorePercentage);
             this.panel4.Controls.Add(this.label8);
             this.panel4.Controls.Add(this.lblRestore);
             this.panel4.Location = new System.Drawing.Point(157, 136);
@@ -255,7 +262,7 @@ namespace GUIResearch
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(5, 67);
+            this.label8.Location = new System.Drawing.Point(5, 66);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(109, 16);
             this.label8.TabIndex = 15;
@@ -266,7 +273,7 @@ namespace GUIResearch
             this.lblDelete.AutoSize = true;
             this.lblDelete.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDelete.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.lblDelete.Location = new System.Drawing.Point(34, 12);
+            this.lblDelete.Location = new System.Drawing.Point(36, 13);
             this.lblDelete.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblDelete.Name = "lblDelete";
             this.lblDelete.Size = new System.Drawing.Size(51, 52);
@@ -278,7 +285,7 @@ namespace GUIResearch
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(11, 67);
+            this.label5.Location = new System.Drawing.Point(11, 65);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(99, 16);
             this.label5.TabIndex = 15;
@@ -287,6 +294,7 @@ namespace GUIResearch
             // panel3
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel3.Controls.Add(this.deletePercentage);
             this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.lblDelete);
             this.panel3.Location = new System.Drawing.Point(157, 244);
@@ -297,6 +305,7 @@ namespace GUIResearch
             // panel6
             // 
             this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel6.Controls.Add(this.movePercentage);
             this.panel6.Controls.Add(this.label10);
             this.panel6.Controls.Add(this.lblMove);
             this.panel6.Location = new System.Drawing.Point(40, 243);
@@ -317,6 +326,7 @@ namespace GUIResearch
             // panel5
             // 
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel5.Controls.Add(this.malwarePercentage);
             this.panel5.Controls.Add(this.label7);
             this.panel5.Controls.Add(this.lblQuarantine);
             this.panel5.Location = new System.Drawing.Point(280, 136);
@@ -328,7 +338,7 @@ namespace GUIResearch
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(3, 59);
+            this.label7.Location = new System.Drawing.Point(3, 51);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(112, 32);
             this.label7.TabIndex = 15;
@@ -340,7 +350,7 @@ namespace GUIResearch
             this.lblCopy.AutoSize = true;
             this.lblCopy.Font = new System.Drawing.Font("Arial Black", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblCopy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.lblCopy.Location = new System.Drawing.Point(31, 10);
+            this.lblCopy.Location = new System.Drawing.Point(20, 14);
             this.lblCopy.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblCopy.Name = "lblCopy";
             this.lblCopy.Size = new System.Drawing.Size(51, 52);
@@ -362,6 +372,7 @@ namespace GUIResearch
             // 
             this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel1.Controls.Add(this.label6);
+            this.panel1.Controls.Add(this.copyPercentage);
             this.panel1.Controls.Add(this.lblCopy);
             this.panel1.Location = new System.Drawing.Point(41, 135);
             this.panel1.Name = "panel1";
@@ -371,6 +382,7 @@ namespace GUIResearch
             // panel8
             // 
             this.panel8.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel8.Controls.Add(this.safePercentage);
             this.panel8.Controls.Add(this.label12);
             this.panel8.Controls.Add(this.lblSafe);
             this.panel8.Location = new System.Drawing.Point(280, 244);
@@ -382,7 +394,7 @@ namespace GUIResearch
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Arial", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(18, 67);
+            this.label12.Location = new System.Drawing.Point(18, 66);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(84, 16);
             this.label12.TabIndex = 15;
@@ -393,18 +405,18 @@ namespace GUIResearch
             // 
             this.chart1.BorderlineColor = System.Drawing.Color.Black;
             this.chart1.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
-            chartArea21.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea21);
-            legend21.Name = "Legend1";
-            this.chart1.Legends.Add(legend21);
+            chartArea5.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea5);
+            legend5.Name = "Legend1";
+            this.chart1.Legends.Add(legend5);
             this.chart1.Location = new System.Drawing.Point(404, 135);
             this.chart1.Name = "chart1";
             this.chart1.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Excel;
-            series21.ChartArea = "ChartArea1";
-            series21.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series21.Legend = "Legend1";
-            series21.Name = "Series1";
-            this.chart1.Series.Add(series21);
+            series5.ChartArea = "ChartArea1";
+            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series5.Legend = "Legend1";
+            series5.Name = "Series1";
+            this.chart1.Series.Add(series5);
             this.chart1.Size = new System.Drawing.Size(195, 160);
             this.chart1.TabIndex = 17;
             this.chart1.Text = "chart1";
@@ -413,17 +425,17 @@ namespace GUIResearch
             // 
             this.chart2.BorderlineColor = System.Drawing.Color.Black;
             this.chart2.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
-            chartArea22.Name = "ChartArea1";
-            this.chart2.ChartAreas.Add(chartArea22);
-            legend22.Name = "Legend1";
-            this.chart2.Legends.Add(legend22);
+            chartArea6.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea6);
+            legend6.Name = "Legend1";
+            this.chart2.Legends.Add(legend6);
             this.chart2.Location = new System.Drawing.Point(404, 301);
             this.chart2.Name = "chart2";
-            series22.ChartArea = "ChartArea1";
-            series22.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series22.Legend = "Legend1";
-            series22.Name = "Series1";
-            this.chart2.Series.Add(series22);
+            series6.ChartArea = "ChartArea1";
+            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series6.Legend = "Legend1";
+            series6.Name = "Series1";
+            this.chart2.Series.Add(series6);
             this.chart2.Size = new System.Drawing.Size(195, 160);
             this.chart2.TabIndex = 19;
             this.chart2.Text = "chart2";
@@ -432,18 +444,18 @@ namespace GUIResearch
             // 
             this.chart3.BorderlineColor = System.Drawing.Color.Black;
             this.chart3.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
-            chartArea23.Name = "ChartArea1";
-            this.chart3.ChartAreas.Add(chartArea23);
-            legend23.Name = "Legend1";
-            this.chart3.Legends.Add(legend23);
+            chartArea7.Name = "ChartArea1";
+            this.chart3.ChartAreas.Add(chartArea7);
+            legend7.Name = "Legend1";
+            this.chart3.Legends.Add(legend7);
             this.chart3.Location = new System.Drawing.Point(404, 468);
             this.chart3.Name = "chart3";
             this.chart3.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Fire;
-            series23.ChartArea = "ChartArea1";
-            series23.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
-            series23.Legend = "Legend1";
-            series23.Name = "Series1";
-            this.chart3.Series.Add(series23);
+            series7.ChartArea = "ChartArea1";
+            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
+            series7.Legend = "Legend1";
+            series7.Name = "Series1";
+            this.chart3.Series.Add(series7);
             this.chart3.Size = new System.Drawing.Size(195, 160);
             this.chart3.TabIndex = 21;
             this.chart3.Text = "chart3";
@@ -452,20 +464,80 @@ namespace GUIResearch
             // 
             this.chart4.BorderlineColor = System.Drawing.Color.Black;
             this.chart4.BorderlineDashStyle = System.Windows.Forms.DataVisualization.Charting.ChartDashStyle.Solid;
-            chartArea24.Name = "ChartArea1";
-            this.chart4.ChartAreas.Add(chartArea24);
-            legend24.Name = "Legend1";
-            this.chart4.Legends.Add(legend24);
+            chartArea8.Name = "ChartArea1";
+            this.chart4.ChartAreas.Add(chartArea8);
+            legend8.Name = "Legend1";
+            this.chart4.Legends.Add(legend8);
             this.chart4.Location = new System.Drawing.Point(41, 351);
             this.chart4.Name = "chart4";
             this.chart4.Palette = System.Windows.Forms.DataVisualization.Charting.ChartColorPalette.Excel;
-            series24.ChartArea = "ChartArea1";
-            series24.Legend = "Legend1";
-            series24.Name = "Series1";
-            this.chart4.Series.Add(series24);
+            series8.ChartArea = "ChartArea1";
+            series8.Legend = "Legend1";
+            series8.Name = "Series1";
+            this.chart4.Series.Add(series8);
             this.chart4.Size = new System.Drawing.Size(356, 277);
             this.chart4.TabIndex = 22;
             this.chart4.Text = "chart4";
+            // 
+            // copyPercentage
+            // 
+            this.copyPercentage.AutoSize = true;
+            this.copyPercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.copyPercentage.Location = new System.Drawing.Point(67, 84);
+            this.copyPercentage.Name = "copyPercentage";
+            this.copyPercentage.Size = new System.Drawing.Size(37, 13);
+            this.copyPercentage.TabIndex = 23;
+            this.copyPercentage.Text = "copy%";
+            // 
+            // movePercentage
+            // 
+            this.movePercentage.AutoSize = true;
+            this.movePercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.movePercentage.Location = new System.Drawing.Point(66, 83);
+            this.movePercentage.Name = "movePercentage";
+            this.movePercentage.Size = new System.Drawing.Size(41, 13);
+            this.movePercentage.TabIndex = 24;
+            this.movePercentage.Text = "move%";
+            // 
+            // restorePercentage
+            // 
+            this.restorePercentage.AutoSize = true;
+            this.restorePercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.restorePercentage.Location = new System.Drawing.Point(75, 83);
+            this.restorePercentage.Name = "restorePercentage";
+            this.restorePercentage.Size = new System.Drawing.Size(50, 13);
+            this.restorePercentage.TabIndex = 24;
+            this.restorePercentage.Text = "restore%";
+            // 
+            // deletePercentage
+            // 
+            this.deletePercentage.AutoSize = true;
+            this.deletePercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.deletePercentage.Location = new System.Drawing.Point(74, 82);
+            this.deletePercentage.Name = "deletePercentage";
+            this.deletePercentage.Size = new System.Drawing.Size(46, 13);
+            this.deletePercentage.TabIndex = 25;
+            this.deletePercentage.Text = "delete%";
+            // 
+            // malwarePercentage
+            // 
+            this.malwarePercentage.AutoSize = true;
+            this.malwarePercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.malwarePercentage.Location = new System.Drawing.Point(75, 83);
+            this.malwarePercentage.Name = "malwarePercentage";
+            this.malwarePercentage.Size = new System.Drawing.Size(57, 13);
+            this.malwarePercentage.TabIndex = 24;
+            this.malwarePercentage.Text = "malware%";
+            // 
+            // safePercentage
+            // 
+            this.safePercentage.AutoSize = true;
+            this.safePercentage.Font = new System.Drawing.Font("Calibri", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.safePercentage.Location = new System.Drawing.Point(75, 83);
+            this.safePercentage.Name = "safePercentage";
+            this.safePercentage.Size = new System.Drawing.Size(35, 13);
+            this.safePercentage.TabIndex = 24;
+            this.safePercentage.Text = "safe%";
             // 
             // historicalData
             // 
@@ -487,7 +559,7 @@ namespace GUIResearch
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.lblDeviceName);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "historicalData";
             this.Text = "Historical Data";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.historicalData_FormClosing);
@@ -546,5 +618,11 @@ namespace GUIResearch
         private System.Windows.Forms.DataVisualization.Charting.Chart chart2;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart3;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart4;
+        private System.Windows.Forms.Label movePercentage;
+        private System.Windows.Forms.Label copyPercentage;
+        private System.Windows.Forms.Label restorePercentage;
+        private System.Windows.Forms.Label deletePercentage;
+        private System.Windows.Forms.Label malwarePercentage;
+        private System.Windows.Forms.Label safePercentage;
     }
 }

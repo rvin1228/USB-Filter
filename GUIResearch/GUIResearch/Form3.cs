@@ -75,6 +75,14 @@ namespace GUIResearch
                 }
             }
 
+            copyPercentage.Text = (Math.Round((double)copyCount / (copyCount + moveCount) * 100, 2)).ToString() + "%";
+            movePercentage.Text = (Math.Round((double)moveCount / (copyCount + moveCount) * 100, 2)).ToString() + "%";
+            restorePercentage.Text = (Math.Round((double)restoreCount / (restoreCount + deleteCount) * 100, 2)).ToString() + "%";
+            deletePercentage.Text = (Math.Round((double)deleteCount / (restoreCount + deleteCount) * 100, 2)).ToString() + "%";
+            malwarePercentage.Text = (Math.Round((double)malwareCount / (malwareCount + safeCount) * 100, 2)).ToString() + "%";
+            safePercentage.Text = (Math.Round((double)safeCount / (malwareCount + safeCount) * 100, 2)).ToString() + "%";
+
+
             var series = new System.Windows.Forms.DataVisualization.Charting.Series();
 
             chart1.Series.Add("Data");
@@ -84,12 +92,18 @@ namespace GUIResearch
             chart3.Series.Add("Data");
             chart3.Series["Data"].ChartType = SeriesChartType.Pie;
 
-            chart1.Series["Data"].Points.AddXY("Copy", copyCount);
-            chart1.Series["Data"].Points.AddXY("Move", moveCount);
-            chart2.Series["Data"].Points.AddXY("Restore", restoreCount);
-            chart2.Series["Data"].Points.AddXY("Delete", deleteCount);
-            chart3.Series["Data"].Points.AddXY("Malware", malwareCount);
-            chart3.Series["Data"].Points.AddXY("Safe", safeCount);
+            chart1.Series["Data"].Points.AddXY(((Math.Round((double)copyCount / (copyCount + moveCount) * 100, 2)).ToString() + "%"), copyCount);
+            chart1.Series["Data"].Points[0].LegendText = "Copy";
+            chart1.Series["Data"].Points.AddXY(((Math.Round((double)moveCount / (copyCount + moveCount) * 100, 2)).ToString() + "%"), moveCount);
+            chart1.Series["Data"].Points[1].LegendText = "Move";
+            chart2.Series["Data"].Points.AddXY(((Math.Round((double)restoreCount / (restoreCount + deleteCount) * 100, 2)).ToString() + "%"), restoreCount);
+            chart2.Series["Data"].Points[0].LegendText = "Restore";
+            chart2.Series["Data"].Points.AddXY(((Math.Round((double)deleteCount / (restoreCount + deleteCount) * 100, 2)).ToString() + "%"), deleteCount);
+            chart2.Series["Data"].Points[1].LegendText = "Delete";
+            chart3.Series["Data"].Points.AddXY(((Math.Round((double)malwareCount / (malwareCount + safeCount) * 100, 2)).ToString() + "%"), malwareCount);
+            chart3.Series["Data"].Points[0].LegendText = "Malware";
+            chart3.Series["Data"].Points.AddXY(((Math.Round((double)safeCount / (malwareCount + safeCount) * 100, 2)).ToString() + "%"), safeCount);
+            chart3.Series["Data"].Points[1].LegendText = "Safe";
 
             series.Points.AddXY("Copy", copyCount);
             series.Points.AddXY("Move", moveCount);
