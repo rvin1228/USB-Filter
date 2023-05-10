@@ -132,12 +132,6 @@ namespace GUIResearch
             {
                 MessageBox.Show($"Error: {ex.Message}");
             }
-            finally
-            {
-                //sshClient.Disconnect();
-                //sshClient.Dispose();
-            }
-
         }
 
         //Back Button for PC
